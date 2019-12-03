@@ -1,0 +1,8 @@
+E:\Ahmed Eisa\repos\Algorithms\bin\Debug\netstandard2.0\Algorithms.deps.json
+E:\Ahmed Eisa\repos\Algorithms\bin\Debug\netstandard2.0\Algorithms.dll
+E:\Ahmed Eisa\repos\Algorithms\bin\Debug\netstandard2.0\Algorithms.pdb
+E:\Ahmed Eisa\repos\Algorithms\obj\Debug\netstandard2.0\Algorithms.csprojAssemblyReference.cache
+E:\Ahmed Eisa\repos\Algorithms\obj\Debug\netstandard2.0\Algorithms.AssemblyInfoInputs.cache
+E:\Ahmed Eisa\repos\Algorithms\obj\Debug\netstandard2.0\Algorithms.AssemblyInfo.cs
+E:\Ahmed Eisa\repos\Algorithms\obj\Debug\netstandard2.0\Algorithms.dll
+E:\Ahmed Eisa\repos\Algorithms\obj\Debug\netstandard2.0\Algorithms.pdb
